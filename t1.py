@@ -12,3 +12,4 @@ while(n>=0):
     n = n-1
 hideturtle() #hides the turtle
 mainloop() # this loop holds the screen that shows turtle
+print("hello world")
